@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'VCcss323'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64CFD9B8EC8D453AB7598C3E5F413B69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_16A9986AA2914F3ABE830E6C51F2BAFF }}
           package: '*.war'
